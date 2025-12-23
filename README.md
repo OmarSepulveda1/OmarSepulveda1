@@ -23,7 +23,7 @@ Omar Sepúlveda Ramírez
 
 
 Presentación Personal
-![Banner](assets/banner.jpg)
+
 
 Hola, soy Omar Sepúlveda Ramírez, desarrollador de software Fullstack con enfoque en el desarrollo de aplicaciones web y sistemas de gestión orientados a negocio.
 Cuento con experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas utilizando frameworks modernos, arquitecturas limpias y buenas prácticas de programación.
