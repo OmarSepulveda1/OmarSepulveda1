@@ -38,5 +38,6 @@ Aprendizaje continuo (¡y aventura continua!)
  
 Músico — The Predator - Vocals
 Si te gusta el Metal, conectemos!
+
 Me caracterizo por trabajar con un enfoque estructurado, escalable y orientado a la resolución de problemas reales mediante tecnología.
 
